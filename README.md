@@ -100,15 +100,48 @@ Critério 2: Insights Acionável
 
 Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
-![Hipótese 1](
+![Hipótese 1](img\hipotese1.png)
 
-Hipóteses (Completo)
-Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
 Hipótese 2: Clientes solteiros gastam menos do que os outros segmentos de clientes.
+![Hipótese 1](img\hipotese2.png)
+
 Hipótese 3: Clientes solteiros abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
+![Hipótese 1](img\hipotese3.png)
+
 Hipótese 4: Clientes com crianças em casa compra mais pelo iFood.
+![Hipótese 1](img\hipotese4.png)
+
 Hipótese 5: Clientes que compram mais carne também compram vinho.
+![Hipótese 1](img\hipotese5.png)
+
+# Insights da análise
+### Visão Geral da Campanha de Marketing
+![Visão Geral](img\visao-geral.png)
+
+### Visão Clientes
+![Visão Cliente](img\visao-clientes.png)
+
+### Conclusão: Visão Resultado Cliente
+![Visão Geral](img\visao-clientes-completa.png)
+
+### Conclusão: Visão Produto
+![Visão Produto](img\visao-produto.png)
+
+# Resultados
+Conclusão: O melhor segmento da campanha foram os clientes casado com idade entre 41 e 50 anos de idade, sem filhos em casa e com graduação completa.
+O pior segmento de clientes foram os viúvos de todas as faixas etárias, clientes abaixo dos 30 anos de todos os estados civis com 2 ou mais crianças em casa e somente ensino fundamental.
+Para maximizar o lucro da próxima campanha, o marketing precisa direcionar suas ações ao melhor segmento apresentado e reduzir os investimentos nos outros segmentos, especialmente o mencionado.
+
+## Visualização e Análise Completa
+Acesse o link: 
+
+https://lookerstudio.google.com/reporting/9b984aac-edcf-4632-83ef-66f71e5026d0
 
 
+# Próximos passos
 
+1. Explorar mais características dos clientes
+2. Automatizar a coleta e a análise para acompanhamento
+3. Agrupar os clientes em grupos de maior e menor faturamento para entender se há similaridades ou não
+4. Montar um dashboard de acompanhamento das métricas das futuras campanhas de marketing
 
