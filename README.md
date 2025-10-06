@@ -93,6 +93,7 @@ Fato + Dimensão: Cliente – Atributos: Formação Profissional
 9.	Clientes com maiores salários têm nível de escolaridade maior.
 
 Passo 6: Critérios de Priorização
+
 Critério 1: Dados disponíveis
 
 Critério 2: Insights Acionável
