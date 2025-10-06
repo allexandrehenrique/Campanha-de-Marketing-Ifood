@@ -100,6 +100,7 @@ Critério 2: Insights Acionável
 
 Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
+![Hipótese 1](
 
 Hipóteses (Completo)
 Hipótese 1: Clientes abaixo dos 30 anos gastam mais com produtos do iFood do que as outras faixas etárias.
